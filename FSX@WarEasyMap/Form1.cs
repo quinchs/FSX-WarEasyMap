@@ -26,6 +26,9 @@ namespace FSX_WarEasyMap
         private void loadMapper(Point point)
         {
             mapping1.Dock = DockStyle.Fill;
+            button1.Hide();
+            button2.Hide();
+            label1.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)
