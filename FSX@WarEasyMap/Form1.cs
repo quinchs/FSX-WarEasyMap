@@ -21,7 +21,7 @@ namespace FSX_WarEasyMap
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
         private void loadMapper(Point point)
         {

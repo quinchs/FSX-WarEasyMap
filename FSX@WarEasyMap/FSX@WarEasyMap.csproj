@@ -82,6 +82,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameXMLMissionParser.cs" />
+    <Compile Include="GlobalData.cs" />
     <Compile Include="Mapping.cs">
       <SubType>UserControl</SubType>
     </Compile>
